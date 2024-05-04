@@ -131,10 +131,10 @@ nav {
   .mobile .hamberger span {
     background: var(--third-color);
   
-    width: 28px;
+    width: 30px;
   
     height: 2px;
-    margin-bottom: 8px;
+    margin-bottom: 10px;
   }
   
   .mobile ul.nav-list {
